@@ -5,11 +5,11 @@ You can use Docker Compose to easily run WordPress in an isolated environment bu
 # Define the project
 
 
-1.Create an empty project directory. \
+1.Create an empty project directory. 
 
-You can name the directory something easy for you to remember. This directory is the context for your application image. The directory should only contain resources to build that image. \
+You can name the directory something easy for you to remember. This directory is the context for your application image. The directory should only contain resources to build that image. 
 
-This project directory contains a docker-compose.yml file which is complete in itself for a good starter wordpress project. \
+This project directory contains a docker-compose.yml file which is complete in itself for a good starter wordpress project. 
 ```bash
 
     Tip: You can use either a .yml or .yaml extension for this file. They both work.
